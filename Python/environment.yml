@@ -1,0 +1,13 @@
+name: pycovid19model
+dependencies:
+  - python>=3.7
+  - numpy
+  - pandas
+  - matplotlib
+  - scipy
+  - statsmodels
+  - pystan
+  - dill
+  - rpy2
+channels:
+  - conda-forge
